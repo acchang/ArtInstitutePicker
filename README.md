@@ -1,3 +1,8 @@
+
+Click here to see it in action: ArtInstitutePicker
+https://acchang.github.io/ArtInstitutePicker
+
+
 This was an exercise for 100Devs using APIs.
 
 I chose the Art Institute of Chicago's API, using a search for a keyword and a year.
