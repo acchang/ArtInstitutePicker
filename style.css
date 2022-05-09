@@ -9,8 +9,9 @@
   
 body  {
     padding: 50px 50px 50px 50px;
-
-    background-image: https://www.artic.edu/iiif/2/9f1e180f-ceb1-4cae-bd64-8bc810cdcce0/full/843,/0/default.jpg;
+    color: white;
+    background-image: url(https://artic-web.imgix.net/d0d2dbcb-7bfa-4d8a-b8b0-ba5913658d88/Michigan_Ave_North_Lion.jpg);
+    background-size: 1500px;
 
   }
 
